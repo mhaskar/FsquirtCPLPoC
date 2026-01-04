@@ -3,4 +3,4 @@ When `bthprops.cpl` is present alongside `fsquirt.exe`, the binary loads it and 
 
 This PoC code generates a malicious `bthprops.cpl` file that can be loaded by `fsquirt.exe`. The included `build.sh` script compiles the CPL module for you.
 
-![Fsquirt.exe PoC screenshot](screenshots/fsquirt-poc.png)
+![Fsquirt.exe PoC screenshot](screenshot.png)
